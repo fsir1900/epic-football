@@ -1,0 +1,336 @@
+{
+  "date": "2026-03-28",
+  "generatedAt": "2026-03-28T00:00:29.866Z",
+  "sourceFile": "/Users/xiaofeng/Documents/trae/11/足球比赛分析.txt",
+  "matchCount": 13,
+  "matches": [
+    {
+      "id": "local_20260328_001",
+      "num": 1,
+      "homeTeam": "西悉尼",
+      "awayTeam": "阿德莱德",
+      "league": "A-League (澳甲)",
+      "date": "2026-03-28T16:30:00+08:00",
+      "status": "UPCOMING",
+      "prediction": {
+        "homeWin": 0.15798096224235345,
+        "draw": 0.24304023497861207,
+        "awayWin": 0.5989788027790345,
+        "predicted": "AWAY",
+        "confidence": 0.5989788027790345
+      },
+      "score": null,
+      "predictionCorrect": null,
+      "primaryScorePrediction": "0-2",
+      "allScorePredictions": [
+        "0-2",
+        "1-3"
+      ],
+      "analysisText": "推荐：让负，搏负",
+      "source": "manual"
+    },
+    {
+      "id": "local_20260328_002",
+      "num": 2,
+      "homeTeam": "汉诺威96",
+      "awayTeam": "不伦瑞克",
+      "league": "德乙",
+      "date": "2026-03-28T17:00:00+08:00",
+      "status": "UPCOMING",
+      "prediction": {
+        "homeWin": 0.6944481182404938,
+        "draw": 0.18909541251247525,
+        "awayWin": 0.11645646924703096,
+        "predicted": "HOME",
+        "confidence": 0.6944481182404938
+      },
+      "score": null,
+      "predictionCorrect": null,
+      "primaryScorePrediction": "2-0",
+      "allScorePredictions": [
+        "2-0",
+        "3-0"
+      ],
+      "analysisText": "分析：汉诺威主场龙属性拉满，战意极强，不伦瑞克客场战绩极差，3场未胜，客场疲软，主队胜率显著；不伦瑞克客场虫球队，看好主队酣畅 | 推荐：主胜，搏让胜 | 比赛趋势：胜",
+      "source": "manual"
+    },
+    {
+      "id": "local_20260328_003",
+      "num": 3,
+      "homeTeam": "卡尔斯鲁厄",
+      "awayTeam": "菲尔特",
+      "league": "德乙",
+      "date": "2026-03-28T18:30:00+08:00",
+      "status": "UPCOMING",
+      "prediction": {
+        "homeWin": 0.1300035906890461,
+        "draw": 0.24691235843777426,
+        "awayWin": 0.6230840508731796,
+        "predicted": "AWAY",
+        "confidence": 0.6230840508731796
+      },
+      "score": null,
+      "predictionCorrect": null,
+      "primaryScorePrediction": "1-1",
+      "allScorePredictions": [
+        "1-1",
+        "2-2"
+      ],
+      "analysisText": "推荐：让负，搏平",
+      "source": "manual"
+    },
+    {
+      "id": "local_20260328_004",
+      "num": 4,
+      "homeTeam": "卡利亚里",
+      "awayTeam": "那不勒斯",
+      "league": "意甲 Serie A",
+      "date": "2026-03-28T19:00:00+08:00",
+      "status": "UPCOMING",
+      "prediction": {
+        "homeWin": 0.21365320293409515,
+        "draw": 0.23079517838580624,
+        "awayWin": 0.5555516186800986,
+        "predicted": "AWAY",
+        "confidence": 0.5555516186800986
+      },
+      "score": null,
+      "predictionCorrect": null,
+      "primaryScorePrediction": "1-2",
+      "allScorePredictions": [
+        "1-2",
+        "0-1"
+      ],
+      "analysisText": "分析：单线的那不勒斯值得相信 | 推荐：负，搏让平",
+      "source": "manual"
+    },
+    {
+      "id": "local_20260328_005",
+      "num": 5,
+      "homeTeam": "克莱蒙",
+      "awayTeam": "圣旺红星",
+      "league": "法乙",
+      "date": "2026-03-28T20:30:00+08:00",
+      "status": "UPCOMING",
+      "prediction": {
+        "homeWin": 0.1454731068738429,
+        "draw": 0.21222386365746565,
+        "awayWin": 0.6423030294686914,
+        "predicted": "AWAY",
+        "confidence": 0.6423030294686914
+      },
+      "score": null,
+      "predictionCorrect": null,
+      "primaryScorePrediction": "1-1",
+      "allScorePredictions": [
+        "1-1",
+        "2-2"
+      ],
+      "analysisText": "分析：克莱蒙主场战力不俗，保级战意拉满，两队实力接近，圣旺红星近期状态下滑，容易平局 | 比赛趋势：让负/平",
+      "source": "manual"
+    },
+    {
+      "id": "local_20260328_006",
+      "num": 6,
+      "homeTeam": "波城",
+      "awayTeam": "蒙彼利埃",
+      "league": "法甲 Ligue 1",
+      "date": "2026-03-28T21:00:00+08:00",
+      "status": "UPCOMING",
+      "prediction": {
+        "homeWin": 0.20150737419028797,
+        "draw": 0.20863388455314413,
+        "awayWin": 0.5898587412565679,
+        "predicted": "AWAY",
+        "confidence": 0.5898587412565679
+      },
+      "score": null,
+      "predictionCorrect": null,
+      "primaryScorePrediction": "1-2",
+      "allScorePredictions": [
+        "1-2",
+        "0-1"
+      ],
+      "analysisText": "推荐：让负，搏负",
+      "source": "manual"
+    },
+    {
+      "id": "local_20260328_007",
+      "num": 7,
+      "homeTeam": "布洛涅",
+      "awayTeam": "南锡",
+      "league": "法乙",
+      "date": "2026-03-28T22:30:00+08:00",
+      "status": "UPCOMING",
+      "prediction": {
+        "homeWin": 0.6720519369905553,
+        "draw": 0.2465500382784762,
+        "awayWin": 0.08139802473096847,
+        "predicted": "HOME",
+        "confidence": 0.6720519369905553
+      },
+      "score": null,
+      "predictionCorrect": null,
+      "primaryScorePrediction": "2-1",
+      "allScorePredictions": [
+        "2-1",
+        "2-0"
+      ],
+      "analysisText": "分析：布洛涅最近状态火热，主场优势，南锡客场虫属性拉满，阵容伤缺，主队胜 | 比赛趋势：胜",
+      "source": "manual"
+    },
+    {
+      "id": "local_20260328_009",
+      "num": 9,
+      "homeTeam": "罗达JC",
+      "awayTeam": "海尔蒙特",
+      "league": "荷乙",
+      "date": "2026-03-28T14:00:00+08:00",
+      "status": "UPCOMING",
+      "prediction": {
+        "homeWin": 0.638701616694353,
+        "draw": 0.1868439172269426,
+        "awayWin": 0.1744544660787044,
+        "predicted": "HOME",
+        "confidence": 0.638701616694353
+      },
+      "score": null,
+      "predictionCorrect": null,
+      "primaryScorePrediction": "1-0",
+      "allScorePredictions": [
+        "1-0",
+        "2-1"
+      ],
+      "analysisText": "分析：罗达主场胜率高，进攻火力足，海尔蒙特客场战斗力联赛垫底，主队大概率胜 | 比赛趋势：胜",
+      "source": "manual"
+    },
+    {
+      "id": "local_20260328_010",
+      "num": 10,
+      "homeTeam": "莱比锡",
+      "awayTeam": "霍芬海姆",
+      "league": "德甲 Bundesliga",
+      "date": "2026-03-28T16:30:00+08:00",
+      "status": "UPCOMING",
+      "prediction": {
+        "homeWin": 0.30154242950831595,
+        "draw": 0.4347922670938153,
+        "awayWin": 0.2636653033978687,
+        "predicted": "DRAW",
+        "confidence": 0.4347922670938153
+      },
+      "score": null,
+      "predictionCorrect": null,
+      "primaryScorePrediction": "2-1",
+      "allScorePredictions": [
+        "2-1",
+        "3-2"
+      ],
+      "analysisText": "分析：设阻盘 | 推荐：胜，搏让平",
+      "source": "manual"
+    },
+    {
+      "id": "local_20260328_011",
+      "num": 11,
+      "homeTeam": "热那亚",
+      "awayTeam": "乌迪内斯",
+      "league": "意甲 Serie A",
+      "date": "2026-03-28T17:00:00+08:00",
+      "status": "UPCOMING",
+      "prediction": {
+        "homeWin": 0.6517841668466868,
+        "draw": 0.2280188013760706,
+        "awayWin": 0.12019703177724256,
+        "predicted": "HOME",
+        "confidence": 0.6517841668466868
+      },
+      "score": null,
+      "predictionCorrect": null,
+      "primaryScorePrediction": "2-1",
+      "allScorePredictions": [
+        "2-1",
+        "1-0"
+      ],
+      "analysisText": "分析：热那亚近期状态回暖，连续2连胜，乌迪内斯防线遭遇重创，防守漏洞大，主胜概率大 | 比赛趋势：主胜/平",
+      "source": "manual"
+    },
+    {
+      "id": "local_20260328_012",
+      "num": 12,
+      "homeTeam": "朗斯",
+      "awayTeam": "昂热",
+      "league": "法甲 Ligue 1",
+      "date": "2026-03-28T18:30:00+08:00",
+      "status": "UPCOMING",
+      "prediction": {
+        "homeWin": 0.6790294145674807,
+        "draw": 0.21193110632820217,
+        "awayWin": 0.10903947910431716,
+        "predicted": "HOME",
+        "confidence": 0.6790294145674807
+      },
+      "score": null,
+      "predictionCorrect": null,
+      "primaryScorePrediction": "2-0",
+      "allScorePredictions": [
+        "2-0",
+        "3-0"
+      ],
+      "analysisText": "分析：朗斯继续追逐领头羊 | 推荐：胜，搏让胜",
+      "source": "manual"
+    },
+    {
+      "id": "local_20260328_013",
+      "num": 13,
+      "homeTeam": "伯恩茅斯",
+      "awayTeam": "曼联",
+      "league": "Premier League",
+      "date": "2026-03-28T19:00:00+08:00",
+      "status": "UPCOMING",
+      "prediction": {
+        "homeWin": 0.32432981292924606,
+        "draw": 0.4329782626564523,
+        "awayWin": 0.2426919244143017,
+        "predicted": "DRAW",
+        "confidence": 0.4329782626564523
+      },
+      "score": null,
+      "predictionCorrect": null,
+      "primaryScorePrediction": "2-2",
+      "allScorePredictions": [
+        "2-2",
+        "1-1",
+        "1-2"
+      ],
+      "analysisText": "分析：曼联状态火热，但客场胜率低，伯恩茅斯韧性强，近期十场不败，曼联客场取胜难度大，平局可能性大 | 推荐：双平，平/胜",
+      "source": "manual"
+    },
+    {
+      "id": "local_20260328_014",
+      "num": 14,
+      "homeTeam": "普雷斯顿",
+      "awayTeam": "斯托克城",
+      "league": "英冠 Championship",
+      "date": "2026-03-28T20:30:00+08:00",
+      "status": "UPCOMING",
+      "prediction": {
+        "homeWin": 0.2256080768938321,
+        "draw": 0.21240738824005756,
+        "awayWin": 0.5619845348661103,
+        "predicted": "AWAY",
+        "confidence": 0.5619845348661103
+      },
+      "score": null,
+      "predictionCorrect": null,
+      "primaryScorePrediction": "0-1",
+      "allScorePredictions": [
+        "0-1",
+        "1-2"
+      ],
+      "analysisText": "推荐：让负，搏负",
+      "source": "manual"
+    }
+  ],
+  "lastComparedAt": "2026-03-28T14:10:38.748Z",
+  "lastComparedDate": "2026-03-28"
+}

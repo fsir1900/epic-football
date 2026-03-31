@@ -1,0 +1,21 @@
+* {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+code, .tabular-nums {
+  font-family: 'Fira Code', monospace;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #060b18;
+}
+::-webkit-scrollbar-thumb {
+  background: #1e3a5f;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3b82f6;
+}
