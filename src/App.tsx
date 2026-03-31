@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { useEffect } from 'react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import './i18n';
 import Navbar from './components/layout/Navbar';
 import Footer from './components/layout/Footer';
@@ -42,6 +43,7 @@ function App() {
   return (
     <BrowserRouter>
       <AppContent />
+      <SpeedInsights />
     </BrowserRouter>
   );
 }
